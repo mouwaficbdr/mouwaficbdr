@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Currently, I am diving deeper into the world of front-end libraries, focusing on React.<br><br>👯 I’m looking to collaborate on anything that matches up my current skills and even more challenging ones.<br><br>⚡ Fun fact, my goal is to become a highly skilled full stack developer and eventually make a significant impact in the tech industry.<br> 🔭 I am currently doing the \#1OODaysOfCode challenge, you can follow my evolution on X !
+🌱 Currently, I am diving deeper into the world of front-end libraries, focusing on React.<br><br>👯 I’m looking to collaborate on anything that matches up my current skills and even more challenging ones.<br><br>⚡ Fun fact, my goal is to become a highly skilled full stack developer and eventually make a significant impact in the tech industry.<br><br>🔭 I am currently doing the #100DaysOfCode challenge, you can follow my evolution on X !
 
 
 ## 🌐 Socials:
