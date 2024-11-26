@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Currently, I am diving deeper into front-end libraries, focusing on React.<br><br>👯 Looking to collaborate on anything that matches up my current skills and even more challenging ones.<br><br>🔭 Currently doing the #100DaysOfCode challenge, you can follow my evolution on X ! <br><br>⚡ Fun fact, I love animes, reading, basketball, coding and chess.
+🌱 Currently, I am diving deeper into front-end libraries, focusing on React.<br><br>👯 Looking to collaborate on anything that matches up my current skills and even more challenging ones.<br><br>🔭 Currently doing the #365DaysOfCode challenge, you can follow my evolution on X ! <br><br>⚡ Fun fact, I love animes, reading, basketball, coding and chess.
 
 
 ## 🌐 Socials:
