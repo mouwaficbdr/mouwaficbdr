@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Currently, I am diving deeper into front-end libraries, focusing on React.<br><br>👯 Looking to collaborate on anything that matches up my current skills and even more challenging ones.<br><br>⚡ Fun fact, I love animes, reading, basketball, coding and chess.
+👯 Looking to collaborate on anything that matches up my current skills and even more challenging ones.<br><br>⚡ Fun fact, I love animes, reading, basketball, coding and chess.
 
 
 ## 🌐 Socials:
