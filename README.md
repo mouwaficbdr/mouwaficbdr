@@ -5,7 +5,8 @@
 📚 Lifelong learner with a strong interest in web development, problem-solving, and clean architecture.  
 🎯 Passionate about coding, anime, basketball, reading, and chess.
 
-⏱️ Coding time tracked this year:   [![wakatime](https://wakatime.com/badge/user/727ca9f6-b923-49a9-8031-231fc87a0832.svg)](https://wakatime.com/@727ca9f6-b923-49a9-8031-231fc87a0832)
+⏱️ Coding time tracked this year:   
+[![wakatime](https://wakatime.com/badge/user/727ca9f6-b923-49a9-8031-231fc87a0832.svg)](https://wakatime.com/@727ca9f6-b923-49a9-8031-231fc87a0832)
 
 
 # 💻 Tech Stack:
