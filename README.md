@@ -16,7 +16,7 @@ Currently exploring **AI integrations**, **system design**, and **cloud deployme
 ### 📫 Reach Me On  
 
 <p align="center">
-  <a href="https://[www.linkedin.com/in/mouwaficbdr](https://www.linkedin.com/in/mouwafic-badarou-05469b385/)" target="_blank">
+  <a href="https://www.linkedin.com/in/mouwafic-badarou-05469b385" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://discordapp.com/users/917837378356387870" target="_blank">
