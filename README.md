@@ -8,7 +8,7 @@
 ### 👨‍💻 About Me  
 <div align="center">
 
-Passionate about **clean code**, **modern web architectures**, and **continuous learning**.  
+Passionate about **clean code**, **modern web architectures**, and **artificial intelligence**.  
 I love building end-to-end apps with **MERN**, and **Python**.   
 Currently exploring **AI integrations**, **system design**, and **cloud deployment**. 
 </div>
@@ -59,17 +59,3 @@ Currently exploring **AI integrations**, **system design**, and **cloud deployme
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-ffcd34?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
-
----
-
-## ⚙️ GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mouwaficbdr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_buster=1" height="160px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mouwaficbdr&theme=tokyonight&hide_border=true&cache_buster=2" height="160px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouwaficbdr&layout=compact&theme=tokyonight&hide_border=true&cache_buster=3" height="150px" />
-</p>
-
