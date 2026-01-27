@@ -1,7 +1,7 @@
 
 <!-- Animated header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hey+there!+👋;I'm+Mouwafic+BADAROU;Full+Stack+Developer+💻;AI+And+Deep+Learning+Enthusiast;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2DA44E&center=true&vCenter=true&width=600&lines=Hey+there!+👋;I'm+Mouwafic+BADAROU;Full+Stack+Developer;Tech+And+AI+Enthusiast;Welcome+to+my+GitHub" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,14 +13,6 @@
 
 
 ---
-
-### 👨‍💻 About Me  
-<div align="center">
-
-Passionate about **clean code**, **modern web architectures**, and **artificial intelligence**.  
-I love building end-to-end apps with **MERN**, and **Python**.   
-Currently exploring **AI integrations**, **system design**, and **cloud deployment**. 
-</div>
 
 ### 📫 Reach Me On  
 
