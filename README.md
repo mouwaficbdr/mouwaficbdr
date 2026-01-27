@@ -1,7 +1,7 @@
 
 <!-- Animated header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2DA44E&center=true&vCenter=true&width=600&lines=Hey+there!+👋;I'm+Mouwafic+BADAROU;Full+Stack+Developer;Tech+And+AI+Enthusiast;Welcome+to+my+GitHub" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2DA44E&center=true&vCenter=true&width=600&lines=Hey+there!+👋;Mouwafic+here;Full+Stack+Developer;Tech+And+AI+Enthusiast;Welcome+to+my+GitHub" alt="Typing SVG" />
 </p>
 
 ---
