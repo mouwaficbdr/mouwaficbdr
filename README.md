@@ -21,10 +21,9 @@
 
 ```
 Name     : Mouwafic Badarou
-Role     : Full Stack Developer
+Role     : Full Stack Developer | Software Architect
 Focus    : Web · AI · System Design
-Status   : Building something meaningful
-Mode     : Always learning
+Status   : Probably building something
 ```
 
 I don't just write code — I **architect experiences**.  
