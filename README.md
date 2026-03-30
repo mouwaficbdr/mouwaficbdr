@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header with custom terminal aesthetic -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1200&color=00D4AA&center=true&vCenter=true&repeat=true&width=580&lines=~/mouwafic+%24+whoami;Software+Architect;Building+design+%26+logic;%E2%96%B6+open+to+opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1200&color=00D4AA&center=true&vCenter=true&repeat=true&width=580&lines=~/mouwafic+%24+whoami;%E2%96%B6+Software+Architect" alt="Typing SVG" />
 
 <br/>
 
