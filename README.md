@@ -57,7 +57,6 @@ it just *works*, beautifully.
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3670A0)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)&nbsp;
-![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00)&nbsp;
 ![Rust](https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=CE422B)
 
 </div>
@@ -70,10 +69,8 @@ it just *works*, beautifully.
 
 ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)&nbsp;
 ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=ffffff)&nbsp;
-![Redux](https://img.shields.io/badge/Redux-0d1117?style=flat-square&logo=redux&logoColor=764ABC)&nbsp;
 ![Zustand](https://img.shields.io/badge/Zustand-0d1117?style=flat-square&logo=react&logoColor=brown)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=38B2AC)&nbsp;
-![SASS](https://img.shields.io/badge/SASS-0d1117?style=flat-square&logo=sass&logoColor=CC6699)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=F24E1E)
 
 </div>
@@ -86,9 +83,9 @@ it just *works*, beautifully.
 
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=6DA55F)&nbsp;
 ![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=ffffff)&nbsp;
+![NestJS](https://img.shields.io/badge/NestJS-0d1117?style=flat-square&logo=nestjs&logoColor=E0234E)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)&nbsp;
-![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28)&nbsp;
 ![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=3ECF8E)
 
 </div>
