@@ -26,11 +26,11 @@ Focus    : Web · AI · System Design
 Status   : Probably building something and learning Rust
 ```
 
-I don't just write code — I **architect experiences**.  
+I don't just write code , I **architect experiences**.  
 Comfortable at every layer of the stack, from database schema  
 to pixel-perfect UI, with a growing obsession for AI-powered products.
 
-I believe the best software is **invisible** —  
+I believe the best software is **invisible**  
 it just *works*, beautifully.
 
 </td>
